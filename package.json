@@ -1,0 +1,25 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "a social network web app where users can share their thoughts, react to friends' thoughts & create a friend list",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ojashri-Basnyat/Social-Network-API.git"
+  },
+  "keywords": [
+    "social"
+  ],
+  "author": "Ojashri Basnyat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ojashri-Basnyat/Social-Network-API/issues"
+  },
+  "homepage": "https://github.com/Ojashri-Basnyat/Social-Network-API#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
