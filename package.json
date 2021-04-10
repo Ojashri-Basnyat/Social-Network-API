@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "a social network web app where users can share their thoughts, react to friends' thoughts & create a friend list",
   "main": "server.js",
+  "start": "nodemon server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -20,6 +21,9 @@
   },
   "homepage": "https://github.com/Ojashri-Basnyat/Social-Network-API#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "mongoose": "^5.12.3",
+    "nodemon": "^2.0.7"
   }
 }
